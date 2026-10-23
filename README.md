@@ -85,16 +85,6 @@ router: traffic goes through a Cloudflare Tunnel.
 - Production images published automatically after each merge
 - Weekly dependency updates with Dependabot
 
-## Team
-
-Poltergeist is built and maintained by:
-
-| | |
-| --- | --- |
-| **Charly Richard-Fromont** | [@charly-2025](https://github.com/charly-2025) |
-| **Baptiste Mesnager** | [@Fourchet](https://github.com/Fourchet) |
-| **Noa Loussouarn** | [@noaloussouarn](https://github.com/noaloussouarn) |
-
 ---
 
 <p align="center">
