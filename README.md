@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://visitors.poltergeist.ch"><b>visitors.poltergeist.ch</b></a> · Web app · Android app
+  <a href="https://visitors.poltergeist.ch"><b>poltergeist.ch</b></a> · Web app · Android app
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ After the school project, part of the team **took it over and kept building**.
 The stack was rewritten from scratch, a native Android app was added, along
 with moderation tools, push notifications and a full CI / CD pipeline. Today
 Poltergeist is a live product, self-hosted and online at
-[visitors.poltergeist.ch](https://visitors.poltergeist.ch).
+[poltergeist.ch](https://visitors.poltergeist.ch).
 
 This repository is a showcase. The source code lives in a private repository.
 
@@ -88,5 +88,5 @@ router: traffic goes through a Cloudflare Tunnel.
 ---
 
 <p align="center">
-  Try it at <a href="https://visitors.poltergeist.ch"><b>visitors.poltergeist.ch</b></a>
+  Try it at <a href="https://visitors.poltergeist.ch"><b>poltergeist.ch</b></a>
 </p>
